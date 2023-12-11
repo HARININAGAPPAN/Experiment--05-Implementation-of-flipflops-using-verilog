@@ -192,16 +192,11 @@ endmodule
 ## TIMING DIGRAMS FOR FLIP FLOPS 
 # SR FLIPFLOP:
 ![Screenshot 2023-12-11 171801](https://github.com/HARININAGAPPAN/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473910/2177b634-9ed6-4315-861e-49c24a121429)
-
 # JK FLIPFLOP:
 ![Screenshot 2023-12-11 171808](https://github.com/HARININAGAPPAN/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473910/296ff60b-7dd6-46e1-8674-3b3aa5cc1851)
-
 # D FLIPFLOP:
 ![Screenshot 2023-12-11 171814](https://github.com/HARININAGAPPAN/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473910/7d3a7a8f-ef08-4195-887c-c814ff37354b)
-
 # T FLIPFLOP:
-
 ![Screenshot 2023-12-11 171821](https://github.com/HARININAGAPPAN/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473910/d053ca82-0b2c-4e01-a534-a8b8fa075f6f)
-
 ### RESULTS:
 All the flipflops are implemented using verilog and their functionality has been validated using their functional tables.
